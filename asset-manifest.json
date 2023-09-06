@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Hemaladhaportfolio/static/css/main.e22bf0af.css",
+    "main.js": "/Hemaladhaportfolio/static/js/main.8a2dee54.js",
+    "static/js/787.f6e65957.chunk.js": "/Hemaladhaportfolio/static/js/787.f6e65957.chunk.js",
+    "static/media/HEMALADHA PHOTO.jpg": "/Hemaladhaportfolio/static/media/HEMALADHA PHOTO.651c2d91a8e73d1c635a.jpg",
+    "static/media/ethi.jpg": "/Hemaladhaportfolio/static/media/ethi.fa36d7fd5785d1b5a61e.jpg",
+    "static/media/rcm1.jpg": "/Hemaladhaportfolio/static/media/rcm1.b4534c6344be4d8223d1.jpg",
+    "static/media/bg": "/Hemaladhaportfolio/static/media/bg.f4bf2a1df688f392fedd",
+    "static/media/sql.webp": "/Hemaladhaportfolio/static/media/sql.227b64223b0ab5b9b22d.webp",
+    "index.html": "/Hemaladhaportfolio/index.html",
+    "main.e22bf0af.css.map": "/Hemaladhaportfolio/static/css/main.e22bf0af.css.map",
+    "main.8a2dee54.js.map": "/Hemaladhaportfolio/static/js/main.8a2dee54.js.map",
+    "787.f6e65957.chunk.js.map": "/Hemaladhaportfolio/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e22bf0af.css",
+    "static/js/main.8a2dee54.js"
+  ]
+}
